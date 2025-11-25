@@ -209,3 +209,17 @@ __marimo__/
 Memory_Images/*.vmem
 Output/extracted_files/*.dmp
 Output/extracted_files/*.exe
+
+
+# Ignore memory dumps
+Memory_Images/
+*.vmem
+*.dmp
+
+# Ignore extracted files
+Output/extracted_files/
+Output/*.exe
+
+# Optional: ignore system files
+*.DS_Store
+*.log
