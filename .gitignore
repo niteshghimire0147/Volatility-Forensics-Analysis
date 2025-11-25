@@ -223,3 +223,16 @@ Output/*.exe
 # Optional: ignore system files
 *.DS_Store
 *.log
+
+# Memory dumps
+Memory_Images/
+*.vmem
+*.dmp
+
+# Executables
+Output/extracted_files/
+Output/*.exe
+
+# Optional system files
+*.log
+*.DS_Store
