@@ -1,0 +1,6 @@
+volatility==2.6.1
+pycrypto==2.6.1
+construct==2.5.3
+impacket==0.9.24
+pyyaml==5.4.1
+

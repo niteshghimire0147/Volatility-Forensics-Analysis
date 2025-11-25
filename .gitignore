@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+Memory_Images/*.vmem
+Output/extracted_files/*.dmp
+Output/extracted_files/*.exe

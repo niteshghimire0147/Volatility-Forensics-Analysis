@@ -1,0 +1,3 @@
+************************************************************************
+explorer.exe pid:   1956
+Command line : C:\WINDOWS\Explorer.EXE
